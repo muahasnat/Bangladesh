@@ -1,0 +1,27 @@
+
+
+
+.box1{
+	width:650;
+	height:400px;
+	background:green;
+	position:relative;
+	
+	margin:100px auto;
+	box-shadow: 5px 5px 10px 8px #000;
+	
+}
+.box2{
+	width:200;
+	height:200px;
+	background:red;
+	border-radius:50%;
+	position:absolute;
+	
+	right:0;
+	left:0;
+	top:0;
+	bottom:0;
+	margin:auto;
+	
+}
